@@ -1,4 +1,4 @@
-# Mini Workshop – Responsive Landing Page
+# Mini Workspace – Responsive Landing Page
 
 A modern and responsive landing page built using **HTML5**, **CSS3**, and **Bootstrap 5**. This project was developed as **Task 2** during the **CodSoft Web Development Internship**.
 
@@ -38,11 +38,10 @@ CODSOFT_TASK2/
 
 ## 📸 Screenshots
 
-Add screenshots of the project inside the `assets/screenshots` folder and display them here.
 
 ## 🌐 Live Demo
 
-GitHub Pages Link: *(Add after deployment)*
+GitHub Pages Link: https://123vanshrajput.github.io/CODSOFT_TASK2/
 
 ## 📌 Internship
 
@@ -52,6 +51,6 @@ This project was created as part of the **CodSoft Web Development Internship –
 
 **Vansh**
 
-GitHub: *(Add your GitHub profile link)*
+GitHub: https://github.com/123VanshRajput/CODSOFT_TASK2
 
-LinkedIn: *(Add your LinkedIn profile link)*
+LinkedIn: 
