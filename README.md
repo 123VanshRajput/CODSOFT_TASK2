@@ -37,7 +37,7 @@ CODSOFT_TASK2/
 ```
 
 ## 📸 Screenshots
-
+![Desktop preview](./assets/screenshots/Screenshot%202026-07-12%20085545.png)
 
 ## 🌐 Live Demo
 
