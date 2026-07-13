@@ -204,6 +204,51 @@ body::before {
   color: var(--text-muted);
 }
 
+.accordion-item {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 0.9rem;
+  overflow: hidden;
+  margin-bottom: 0.8rem;
+}
+
+.accordion-button {
+  background: transparent;
+  color: var(--text-main);
+  box-shadow: none;
+  font-weight: 600;
+}
+
+.accordion-button:not(.collapsed) {
+  color: var(--text-main);
+  background: rgba(124, 147, 255, 0.18);
+  box-shadow: none;
+}
+
+.accordion-button::after {
+  filter: brightness(2);
+}
+
+.accordion-body {
+  color: var(--text-muted);
+  background: rgba(7, 17, 31, 0.35);
+}
+
+.modal-content {
+  background: rgba(7, 17, 31, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  color: var(--text-main);
+}
+
+.modal-header,
+.modal-footer {
+  border-color: rgba(255, 255, 255, 0.14);
+}
+
+.btn-close {
+  filter: brightness(0) invert(1);
+}
+
 .footer {
   padding: 1.2rem 0 1.8rem;
   border-top: 1px solid rgba(255, 255, 255, 0.12);
