@@ -53,4 +53,4 @@ This project was created as part of the **CodSoft Web Development Internship –
 
 GitHub: https://github.com/123VanshRajput/CODSOFT_TASK2
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/posts/vansh-rajput2026_codsoft-webdevelopment-landingpage-activity-7482280207580557313-M_mv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGsExn8Bgxe2grDpEJOZphcr9iAX2I1zri8
